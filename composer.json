@@ -1,9 +1,9 @@
 {
-  "name": "getherbert/herbert-plugin",
+  "name": "lexisvar/herbert-plugin",
   "description": "Herbert plugin",
   "license": "MIT",
   "require": {
-    "getherbert/framework": "~0.9"
+    "lexisvar/framework": "~0.9"
   },
   "config": {
     "preferred-install": "dist"
